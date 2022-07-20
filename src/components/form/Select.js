@@ -14,11 +14,11 @@ function Select({ text, name, options, handleOnChange, value }) {
         >
         <option>Selecione uma opção...</option>
 
-          {/* {options.map((options) => (
-            <option value={options.id} key={options.id}>
-              {options.name}
-            </option>
-          ))} */}
+        {/* Imprimindo as options que vem da API */}
+        {options.map((options) => (
+            <option value={options.id} key={options.id}> {options.name} </option>
+        ))}
+
         </select>
       </div>
     )
