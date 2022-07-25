@@ -10,6 +10,17 @@
       "cost": 0,
       "service": [],
       "id": 1
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "zzz",
+      "budget": "2323",
+      "cost": 0,
+      "service": [],
+      "id": 2
     }
   ],
   "categories": [
