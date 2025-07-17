@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bragabriel/project-costs-reactjs/static/css/main.8c63bdcf.css",
+    "main.js": "/bragabriel/project-costs-reactjs/static/js/main.f43bd249.js",
+    "static/media/savings.svg": "/bragabriel/project-costs-reactjs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/bragabriel/project-costs-reactjs/index.html",
+    "static/media/loading.svg": "/bragabriel/project-costs-reactjs/static/media/loading.cb532fb55bf84419963cc55778925f86.svg",
+    "main.8c63bdcf.css.map": "/bragabriel/project-costs-reactjs/static/css/main.8c63bdcf.css.map",
+    "main.f43bd249.js.map": "/bragabriel/project-costs-reactjs/static/js/main.f43bd249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c63bdcf.css",
+    "static/js/main.f43bd249.js"
+  ]
+}
